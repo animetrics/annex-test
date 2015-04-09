@@ -7,11 +7,12 @@ hashes to track changes, and in some cases external links to the data (say in
 S3, or on the web via URLs) called "special remotes" are stored in git.  
 
 This repo just demonstrates using URLS as special remotes.   I followed this
-[tutorial](https://git-annex.branchable.com/tips/centralized_git_repository_tutorial/).
-for setting up a git-annex project in github, sumarized in the below steps.  You will need to 
-[install](http://git-annex.branchable.com/install/) git-annex to work with or
-replicate this project.  Skip steps 3 and 4 if you are simply using an existing
-repo like this one that is already setup to work with git-annex.  
+[tutorial](https://git-annex.branchable.com/tips/centralized_git_repository_tutorial/)
+for setting up a git-annex project in github, with my specific steps listed
+below.  You will need to [install](http://git-annex.branchable.com/install/)
+git-annex to work with or replicate this project.  Skip steps 3 and 4 if you
+are simply using an existing repo like this one that is already setup to work
+with git-annex.  
 
 ## How to create repo
 
